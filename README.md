@@ -1,20 +1,3 @@
-Yes — for recruiters, shorter + structured is much stronger.
-
-Most recruiters spend only:
-
-* 10–20 seconds scanning GitHub profiles initially.
-* Too much scrolling reduces impact.
-
-A professional GitHub README should:
-
-* show identity quickly,
-* highlight skills fast,
-* contain searchable keywords,
-* avoid “wall of text,”
-* look clean on both desktop and mobile.
-
-This version is much more recruiter-friendly while still ATS optimized:
-
 # Hi, I'm Asish Mohanty 👋
 
 ### Aspiring Data Scientist | Machine Learning Enthusiast | AI & Analytics Learner
