@@ -13,14 +13,6 @@
 Passionate engineering graduate focused on **Data Science, Machine Learning, AI, and Analytics**.
 Interested in solving real-world problems using data-driven approaches, predictive modeling, and intelligent systems.
 
-Currently learning advanced concepts in:
-
-* Machine Learning
-* Deep Learning
-* Big Data Processing
-* AI Model Deployment
-* MLOps & Scalable ML Systems
-
 ---
 
 ## Technical Skills
