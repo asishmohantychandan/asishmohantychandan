@@ -57,7 +57,7 @@ Power BI • Tableau • Excel • Jupyter Notebook • VS Code • Git • GitH
 📧 Email: [asishmohantychandan@gmail.com](mailto:asishmohantychandan@gmail.com)
 
 🔗 GitHub:
-[https://github.com/asish-mohanty44](https://github.com/asishmohantychandan)
+[https://github.com/asishmohantychandan](https://github.com/asishmohantychandan)
 
 ---
 
